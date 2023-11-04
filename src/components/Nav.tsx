@@ -1,4 +1,5 @@
 import React from 'react'
+import Tuggle from './Tuggle'
 
 const Nav = () => {
   return (
@@ -21,6 +22,7 @@ const Nav = () => {
                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
                 </button>
+                <Tuggle />
             </div>
         </header>
     
