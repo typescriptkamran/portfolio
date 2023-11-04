@@ -3,7 +3,10 @@ import Tuggle from "./Tuggle";
 
 const Nav2 = () => {
   return (
+    
+    
     <div className="navbar shadow-xxl bg-primary text-primary-content fixed top-0 left-0 w-full shadow-md z-50">
+    
       <div className="flex-1">
         <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
       </div>
