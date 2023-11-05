@@ -13,7 +13,12 @@ export default function Home() {
       
       
     
-    <div> Helo world </div>
+    <div className='text-center text-5xl text-green-500'> Helo world </div>
+
+    <div className='w-full border-cyan-700 border-2 rounded-m h-2 text-center font-mono text-lg py-8 '> My name</div>
+
+
+
     </main>
   )
 }
